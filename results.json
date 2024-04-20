@@ -1,12 +1,12 @@
 {
   "test_preprocess": {
-    "vocab_length": 1802
+    "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 746,
-    "english_3_gram_length": 8191,
-    "french_3_gram_length": 8220,
-    "spanish_3_gram_length": 8443
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8475,
+    "french_3_gram_length": 8507,
+    "spanish_3_gram_length": 8746
   },
   "test_eval": "TypeError('locals must be a mapping')",
   "test_match": "NameError(\"name 'match' is not defined\")",
