@@ -4,9 +4,9 @@
   },
   "test_lm": {
     "english_2_gram_length": 748,
-    "english_3_gram_length": 8475,
-    "french_3_gram_length": 8507,
-    "spanish_3_gram_length": 8746
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": "TypeError('locals must be a mapping')",
   "test_match": "NameError(\"name 'match' is not defined\")",
