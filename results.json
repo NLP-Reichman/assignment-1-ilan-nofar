@@ -9,15 +9,24 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 18.080424316469983,
-    "en_fr": 36.99656771377938,
-    "en_tl": 43.99373787540518,
-    "en_nl": 38.41544407706234
+    "en_en": 18.15027441309356,
+    "en_fr": 36.815601929059916,
+    "en_tl": 43.88420694312033,
+    "en_nl": 39.067336300506255
   },
   "test_match": {
-    "en_en_3": 18.080424316469983,
-    "en_tl_3": 43.99373787540518,
-    "en_nl_3": 38.41544407706234
+    "en_en_3": 18.15027441309356,
+    "en_tl_3": 43.88420694312033,
+    "en_nl_3": 39.067336300506255
   },
-  "test_generate": "NameError(\"name 'generate' is not defined\")"
+  "test_generate": {
+    "english_1_gram": "ItpgLpC eLhF nostTloI",
+    "english_2_gram": "\u0002I amoulpeginShmee bie ae",
+    "english_3_gram": "\u0002\u0002I amit: Lynmkm ways.\u0003",
+    "english_4_gram": "\u0002\u0002\u0002I Love gifts @OndMade a no",
+    "spanish_2_gram": "\u0002Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "\u0002\u0002Soy orbe\u0003",
+    "french_2_gram": "\u0002Je suis:/opapropades tprisl",
+    "french_3_gram": "\u0002\u0002Je suis tune\u0003"
+  }
 }
